@@ -1,0 +1,9 @@
+.jumbotron {
+    width: 100%;
+    font-size: 2rem;
+    color: #f8f8f8;
+    background-color: #2e3351;
+    height: auto;
+    text-align: center;
+    position: sticky;
+  }
