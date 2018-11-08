@@ -9,7 +9,7 @@ import Column from "./Column";
 import skins from "./skins.json";
 import "./App.css";
 
-function shuffleCards(array) {
+function shuffleSkins(array) {
     for (let i = array.length - 1; i > 0; i--) {
         let j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
@@ -68,22 +68,22 @@ class App extends Component {
       render() {
         return (
           <Wrapper>
-            <Nav
+            <Header
               title="Fortnite Skin Collector Game"
               score={this.state.currentScore}
               bestScore={this.state.bestScore}
               rightWrong={this.state.rightWrong}
             />
     
-            <Title>
+            <HeaderText>
               Collect all 12 skins and don't collect the same skin more than once!
-            </Title>
+            </HeaderText>
     
             <Container>
               <Row>
                 {this.state.skins.map(skins => (
                   <Column size="md-3 sm-6">
-                    <PuppyCard
+                    <Card
                       key={skins.id}
                       handleClick={this.handleClick}
                       handleIncrement={this.handleIncrement}

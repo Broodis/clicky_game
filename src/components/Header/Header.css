@@ -1,0 +1,13 @@
+.jumbotron {
+    width: 100%;
+    height: 30%;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    text-align: center;
+    position: sticky;
+    background-image: url('https://images8.alphacoders.com/877/877849.jpg');
+    background-size: 100%;
+    background-position: top
+  }

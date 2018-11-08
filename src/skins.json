@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Assault Trooper",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2fmx2fm9x2fIhaaslYvfhslZrpu0.wunx3fclyzpvux3d10250ki89m3j6k80m5lhillm29l7178l_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Bullseye",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f8x2f85x2fIbsszlflVbampa.wunx3fclyzpvux3dj998m181h2i5k2449k522m6k4669284j_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Brilliant Striker",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f9x2f91x2fIhaaslYvfhslZrpu41.wunx3fclyzpvux3dh9k3526977718lk19j47022546l8l499_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Jumpshot",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2fmx2fm3x2fQbtwzovaVbampa.wunx3fclyzpvux3d5976l7jk0h473i12k20lh0791ii79ji7_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Abstrakt",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f8x2f82x2fHizayhraVbampa.wunx3fclyzpvux3d4801645640178l4mjhkj22lij8712i62_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Elite Agent",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f2x2f29x2fIhaaslYvfhslZrpu32.wunx3fclyzpvux3d8k19j74hkm1988990jik7i45i313h26k_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Heidi",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f8x2f8lx2fOlpkpVbampa.wunx3fclyzpvux3d69124mi4827086h19m980h8i5hj13982_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Plague",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f4x2f40x2fWshnblVbampa.wunx3fclyzpvux3d5150h6447k2l8m6kj3m564h666k98mh2_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Rapscallion",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2fkx2fk6x2fYhwzjhsspvuVbampa.wunx3fclyzpvux3d6hi89542l4jh2702j7385h8j12665m96_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Fate",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2f0x2f00x2fMhalVbampa.wunx3fclyzpvux3d9200jk808711j6ikhil43kk35i590i5h_$/$/$/$/$?i10c.ua=1&i10c.dv=19",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Vertex",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2fmx2fmjx2fClyaleVbampa.wunx3fclyzpvux3dl51660h70930kj02508l110h7k284il7_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "The Reaper",
+    "image": "https://c-4tvylwolbz88x24k8b2w0s1dwhf0rx2ejsvbkmyvuax2eula.g00.gamepedia.com/g00/3_c-4mvyaupal.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fk8b2w0s1dwhf0r.jsvbkmyvua.ulax2fmvyaupal_nhtlwlkphx2flx2fl2x2fIhaaslYvfhslZrpu33.wunx3fclyzpvux3d2lmhjji2j16095jm17043m75hhm88291_$/$/$/$/$?i10c.ua=1&i10c.dv=22",
+    "clicked": false
+  }
+]
