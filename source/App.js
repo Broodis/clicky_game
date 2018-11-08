@@ -33,4 +33,72 @@ class App extends Component {
         } else {
             this.handleReset();
         }
-    };
+    };  
+
+    handleIncrement = () => {
+        const newScore = this.state.currentScore + 1;
+        this.setState({
+          currentScore: newScore,
+          rightWrong: ""
+        });
+        if (newScore >= this.state.bestScore) {
+          this.setState({ bestScore: newScore });
+        }
+        else if (newScore === 12) {
+          this.setState({ rightWrong: "You've collected all 12 skins!" });
+        }
+        this.handleShuffle();
+      };
+    
+      handleReset = () => {
+        this.setState({
+          currentScore: 0,
+          bestScore: this.state.bestScore,
+          rightWrong: "Try Again!",
+          clicked: []
+        });
+        this.handleShuffle();
+      };
+    
+      handleShuffle = () => {
+        let shuffledSkins = shuffleSkins(skins);
+        this.setState({ skins: shuffledSkins });
+      };
+    
+      render() {
+        return (
+          <Wrapper>
+            <Nav
+              title="Fortnite Skin Collector Game"
+              score={this.state.currentScore}
+              bestScore={this.state.bestScore}
+              rightWrong={this.state.rightWrong}
+            />
+    
+            <Title>
+              Collect all 12 skins and don't collect the same skin more than once!
+            </Title>
+    
+            <Container>
+              <Row>
+                {this.state.skins.map(skins => (
+                  <Column size="md-3 sm-6">
+                    <PuppyCard
+                      key={skins.id}
+                      handleClick={this.handleClick}
+                      handleIncrement={this.handleIncrement}
+                      handleReset={this.handleReset}
+                      handleShuffle={this.handleShuffle}
+                      id={skins.id}
+                      image={skins.image}
+                    />
+                  </Column>
+                ))}
+              </Row>
+            </Container>
+          </Wrapper>
+        );
+      }
+    }
+    
+    export default App;
